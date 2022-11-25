@@ -1,0 +1,111 @@
+﻿@model Movie_Booking.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<style>
+    .Details{
+        display:flex;
+    }
+
+    .Image{
+        width: 400px;
+        margin-right: 20px;
+    }
+
+    .Image img{
+        width: 300px;
+    }
+
+    .info{
+        margin: 15px;
+        font-size: 1em;
+    }
+
+    .Trailer{
+        width: 80%;
+    }
+
+    .Trailer iframe{
+        width: 100%;
+    }
+    
+    @@media(max-width: 800px) {
+
+        .Trailer{
+            width: 100%;
+        }
+
+        .Image {
+            width: 80%;
+            margin:auto;
+        }
+
+        .Image img{
+            width: 90%;
+        }
+        .Details{
+            flex-direction: column;
+        }
+    }
+</style>
+<div class="container Container">
+    <div class="Details">
+        <div class="Image">
+            <img src="@Html.Raw(Model.ImageURL)" alt="Alternate Text" />
+        </div>
+        <div>
+            <h4>@Model.Name</h4>
+            <hr />
+            <div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.TypesofMovies.Type) :
+                    @Html.DisplayFor(model => model.TypesofMovies.Type)
+                </div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.Name) :
+                    @Html.DisplayFor(model => model.Name)
+                </div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.Price) :
+                    R @Html.DisplayFor(model => model.Price)
+                </div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.Writer) :
+                    @Html.DisplayFor(model => model.Writer)
+                </div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.Director) :
+                    @Html.DisplayFor(model => model.Director)
+                </div>
+                <div class="info">
+                    @Html.DisplayNameFor(model => model.Starring) :
+                    @Html.DisplayFor(model => model.Starring)
+                </div>
+                <div class="info">
+                    @Html.DisplayFor(model => model.Description)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <a href="~/dates/Booking/@Model.Id">Book Now</a>
+    </div>
+    <hr/>
+    <div class="Trailer">
+        <h4>Trailer</h4>
+        @{ 
+            string trailer = Model.Trailer;
+        }
+        <iframe width="1349" height="488" src="@trailer"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <p>
+        @if (User.IsInRole("Admin"))
+        {
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id })
+        }
+    </p>
+
+</div>

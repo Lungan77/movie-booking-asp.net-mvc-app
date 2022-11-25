@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+<style>
+    .admin{
+        width: 100%;
+        display:flex;
+        margin:auto;
+        flex-direction:column;
+        align-items:center
+    }
+    .admin img{
+        width: 15%;
+        margin: 20px;
+    }
+
+    .align-admin{
+        width: 100%;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .align-admin div{
+        display: flex;
+        margin: 20px;
+    }
+
+    .align-admin div img{
+        width: 50px;
+        margin: 10px;
+    }
+</style>
+
+<div class="Container container form">
+    <div class="admin">
+        <img src="https://cdn-icons-png.flaticon.com/512/2550/2550394.png" alt="Alternate Text" />
+    </div>
+    <hr />
+    <div class="align-admin">
+        <div>
+            <a href="~/Movies/Create"><img src="https://cdn-icons-png.flaticon.com/512/2921/2921226.png" alt="Alternate Text" /></a>
+            <p>Add Movie</p>
+        </div>
+        <div>
+            <a href="~/Movies/Index"><img src="https://cdn-icons-png.flaticon.com/512/777/777242.png" alt="Alternate Text" /></a>
+            <p>Movies</p>
+        </div>
+        <div>
+            <a href="~/Dates/Create"><img src="https://cdn-icons-png.flaticon.com/512/942/942759.png" alt="Alternate Text" /></a>
+            <p>Add Dates</p>
+        </div>
+        <div>
+            <a href="~/Dates/Index"><img src="https://cdn-icons-png.flaticon.com/512/1470/1470091.png" alt="Alternate Text" /></a>
+            <p>Dates</p>
+        </div>
+    </div>
+</div>
+

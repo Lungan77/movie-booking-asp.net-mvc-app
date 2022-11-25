@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Movie_Booking.Models.Dates>
+
+@{
+    ViewBag.Title = "Booking";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+
+    var Image = (from d in Model
+                 where d.Movie.Id == d.MovieId
+                 select d.Movie.ImageURL).FirstOrDefault();
+
+    var Movie_Name = (from d in Model
+                      where d.Movie.Id == d.MovieId
+                      select d.Movie.Name).FirstOrDefault();
+
+    var Price = (from d in Model
+                      where d.Movie.Id == d.MovieId
+                      select d.Movie.Price).FirstOrDefault();
+}
+
+<style>
+    .movie-img img{
+        width: 200px;
+    }
+
+
+    .booking {
+        background-color: deepskyblue;
+        margin-bottom: 15px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    .booking p {
+        display: inline-block;
+        color: black;
+        font-weight: 600;
+    }
+</style>
+
+<div class="Container container">
+    <h2>Booking</h2>
+    <div> 
+        <div class="movie-img">
+            <img src="@Html.Raw(@Image)" alt="Alternate Text" />
+            <p>@Movie_Name || R @Price</p>
+        </div>
+        @if(Movie_Name == null)
+            {
+                <p>Sorry this movie is not available for booking.</p>
+                <style>
+                    .movie-img{
+                        display: none;
+                    }
+                    .booking{
+                        display: none;
+                    }
+                </style>
+            }
+    </div>
+
+    @foreach (var item in Model)
+    {
+        var display = "block-inline";
+        var color = "black";
+        if(item.Seats == 0)
+        {
+            color = "red";
+            display = "none";
+        }
+        <div class="booking">
+            <p>Date: @Html.DisplayFor(modelItem => item.Date)</p> ||
+            <p>Time: @Html.DisplayFor(modelItem => item.Time)</p> ||
+            <p>Seats left: <span style="color: @color">@Html.DisplayFor(modelItem => item.Seats)</span></p> ||
+            <p style="display: @display"><a href="~/Bookings/Payment/@item.Id">Book</a></p>
+        </div>
+    }
+</div>

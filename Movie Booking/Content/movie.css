@@ -1,0 +1,139 @@
+﻿/*Movies/Index*/
+.body {
+    position: absolute;
+    top: 0px;
+}
+
+
+.container {
+    margin-top: 100px;
+}
+
+
+@media(max-width: 800px){
+    .container{
+        margin-top: 70px;
+    }
+    
+}
+
+.flex-movies {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.movie-card {
+    width: 250px;
+    overflow: hidden;
+    align-self: baseline;
+    flex-direction: column;
+}
+
+.Image {
+    width: 100%;
+}
+
+.Image img {
+    width: 100%;
+}
+
+.card-details {
+    width: 50%;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.card-details-name {
+    font-size: 1.5em;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.card-details-type {
+    font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.card-details-dis {
+    width: 50%;
+}
+.filter {
+    width: 50%;
+}
+
+@media(max-width: 1000px) {
+    .movie-card {
+        width: 200px;
+    }
+}
+
+@media(max-width: 600px) {
+    .movie-card{
+        width: 80%;
+    }
+}
+
+/*login*/
+
+.danger {
+    color: red;
+}
+
+.form {
+    background-color: rgb(0, 0, 0, 0.1);
+    padding: 10px 50px 50px 50px;
+    width: 75%;
+}
+
+.form h2 {
+    text-transform: uppercase;
+}
+
+.form-horizontal h4{
+    font-size: 1em;
+}
+
+.form-group {
+    margin: 15px;
+}
+
+.control-label {
+    font-size: 1.2em;
+}
+
+.form-control {
+    width: 50%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+@media(max-width: 400px){
+    .form-control{
+        width: 90%;
+    }
+}
+
+@media(max-width: 1000px){
+    .form-control{
+        width: 70%;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}

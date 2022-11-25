@@ -1,0 +1,65 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - Movie-Star</title>
+    <link rel="icon" type="image/x-icon" href="~/Images/1517845731.jpg">
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="~/Content/movie.css" rel="stylesheet" />
+</head>
+<body>
+    <header id="header">
+        <div class="Container">
+            <div class="Nav">
+                <div id="head-logo">
+                    <h1>Movie-Star</h1>
+                </div>
+                <div class="navigation" id="myNav">
+                    <nav>
+                        <ul>
+                            <li>
+                                <div class="search">
+                                    <form action="~/Movies/Index">
+                                        <input type="text" placeholder="Search.." name="Name">
+                                        <button type="submit"><i class="fa fa-search"></i></button>
+                                    </form>
+                                </div>
+                            </li>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <li><a href="~/Home/Admin">Admin</a></li>
+                            }
+                            @if (User.IsInRole("Client")) 
+                            { 
+                                <li><a href="~/Bookings/My_Bookings">Bookings</a></li>
+                            }
+                            <li><a href="~/Movies/Index">Movies</a></li>
+                            @Html.Partial("_LoginPartial")
+                        </ul>
+                    </nav>
+                </div>
+                <div class="open" id="open" onclick="down()">
+                    <p>&#9776;</p>
+                </div>
+                <div class="close" id="close" onclick="up()">
+                    <p class="material-icons">&#xe5cd;</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section>
+        @RenderBody()
+    </section>
+    <script src="~/Content/nav.js"></script>
+</body>
+</html>

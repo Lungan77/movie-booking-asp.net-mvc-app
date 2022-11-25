@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Movie_Booking.Models.Booking>
+
+@{
+    ViewBag.Title = "My Bookings";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<style>
+    
+</style>
+
+<div class="Container container form" >
+    <h2>My Bookings</h2>
+
+    <p>
+        @Html.ActionLink("Explore", "Index", "Movies")
+    </p>
+    @if(Model == null) 
+    { 
+        <style>
+            .table {
+               display: none;
+            }
+        </style>
+        <p>You don`t have any bookings.</p>
+    }
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Dates.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dates.Time)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dates.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dates.Time)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>

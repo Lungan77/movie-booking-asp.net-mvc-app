@@ -1,0 +1,50 @@
+﻿@model PagedList.IPagedList<Movie_Booking.Models.Movie>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<div class="container Container">
+    <div class="filter">
+        @using (Html.BeginForm("Index", "Movies", " ", FormMethod.Get))
+        {
+            <div>
+                <label>Name</label>
+                @Html.TextBox("Name", ViewBag.CurrentFilter as string)
+            </div>
+            <div>
+                <p>
+                Genre: @Html.DropDownList("Genre", "All")
+                </p>
+            </div>
+            <input type="submit" value="Search" />
+        }
+
+    </div>
+    <div class="flex-movies">
+        @foreach (var item in Model)
+        {
+            var id = item.Id;
+
+        <div>
+            <div class="movie-card">
+                <div class="Image">
+                    <a href="~/Movies/Details/@id"><img src="@Html.Raw(item.ImageURL)" alt="Alternate Text" /></a>
+                </div>
+            </div>
+            <div>
+                <p>@item.Name || R @item.Price</p>
+            </div>
+        </div>
+        }
+    </div>
+    <br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</div>
+

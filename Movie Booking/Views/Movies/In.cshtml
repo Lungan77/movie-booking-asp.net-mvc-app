@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Movie_Booking.Models.Movie>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+<!--<link href="~/Content/Style.css" rel="stylesheet" />-->
+@*<style>
+
+
+        #header{
+            top: 0px;
+        }
+
+
+    </style>*@
+
+@*<div class="Container">
+    <div class="container">
+
+        @foreach (var item in Model)
+        {
+            var id = item.Id;
+
+            <div class="movie-card">
+                <div class="Image">
+                    <a href="~/Movies/Details/@id"><img src="@Html.Raw(item.ImageURL)" alt="Alternate Text" /></a>
+                </div>
+                <div class="card-details">
+                    <div class="card-details-name">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </div>
+                    <div class="card-details-type">
+                        @Html.DisplayFor(modelItem => item.TypesofMovies.Type)
+                    </div>
+                    <div class="card-details-type">
+                        @Html.DisplayFor(modelItem => item.Writer)
+                    </div>
+                    <div class="card-details-type">
+                        @Html.DisplayFor(modelItem => item.Director)
+                    </div>
+                    <div class="card-details-type">
+                        @Html.DisplayFor(modelItem => item.Starring)
+                    </div>
+                    <div class="card-details-dis">
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>*@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout2</title>
+    <link href="~/Content/Style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="Container">
+        <div class="container">
+
+            @foreach (var item in Model)
+            {
+                var id = item.Id;
+
+                <div class="movie-card">
+                    <div class="Image">
+                        <a href="~/Movies/Details/@id"><img src="@Html.Raw(item.ImageURL)" alt="Alternate Text" /></a>
+                    </div>
+                    <div class="card-details">
+                        <div class="card-details-name">
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </div>
+                        <div class="card-details-type">
+                            @Html.DisplayFor(modelItem => item.TypesofMovies.Type)
+                        </div>
+                        <div class="card-details-type">
+                            @Html.DisplayFor(modelItem => item.Writer)
+                        </div>
+                        <div class="card-details-type">
+                            @Html.DisplayFor(modelItem => item.Director)
+                        </div>
+                        <div class="card-details-type">
+                            @Html.DisplayFor(modelItem => item.Starring)
+                        </div>
+                        <div class="card-details-dis">
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</body>
+</html>

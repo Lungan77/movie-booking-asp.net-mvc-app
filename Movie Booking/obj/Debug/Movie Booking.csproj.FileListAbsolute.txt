@@ -1,0 +1,471 @@
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll.config
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.pdb
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Owin.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\WebGrease.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CopyComplete
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.dll
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.pdb
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.initialmodel.resources
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addtypes.resources
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addimageurl.resources
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.Movie_description.resources
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.updatemovie.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll.config
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.pdb
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe.config
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.rsp
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe.config
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.rsp
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.AppContext.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Console.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Http.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.ValueTuple.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe.config
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.rsp
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Owin.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\WebGrease.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.pdb
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csprojAssemblyReference.cache
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.initialmodel.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addtypes.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addimageurl.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.Movie_description.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.updatemovie.resources
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.GenerateResource.cache
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CopyComplete
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.dll
+C:\Users\labuser\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.pdb
+C:\Users\Student\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addadmin.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Movie Booking.dll.config
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Movie Booking.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Movie Booking.pdb
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csc.exe
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csc.exe.config
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csc.rsp
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csi.exe
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csi.exe.config
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\csi.rsp
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.AppContext.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Console.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\vbc.exe
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\vbc.exe.config
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\vbc.rsp
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Antlr3.Runtime.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\EntityFramework.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Newtonsoft.Json.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Owin.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Helpers.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Mvc.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Optimization.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Razor.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\WebGrease.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\EntityFramework.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Helpers.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Mvc.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Optimization.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.Razor.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Newtonsoft.Json.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Antlr3.Runtime.pdb
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csprojAssemblyReference.cache
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.initialmodel.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addtypes.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addimageurl.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.Movie_description.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.updatemovie.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addadmin.resources
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.GenerateResource.cache
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CoreCompileInputs.cache
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CopyComplete
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.dll
+C:\Users\Student\3D Objects\Movie Booking\Movie Booking\obj\Debug\Movie Booking.pdb
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll.config
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Movie Booking.pdb
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.exe.config
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csc.rsp
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.exe.config
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\csi.rsp
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.AppContext.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Console.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Http.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.ValueTuple.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.exe.config
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\vbc.rsp
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Owin.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\WebGrease.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\EntityFramework.SqlServer.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Helpers.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Mvc.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Optimization.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.Razor.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\System.Web.WebPages.Razor.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Newtonsoft.Json.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Antlr3.Runtime.pdb
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.AssemblyReference.cache
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.initialmodel.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addtypes.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addimageurl.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.Movie_description.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.updatemovie.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addadmin.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.GenerateResource.cache
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CoreCompileInputs.cache
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.csproj.CopyComplete
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie Booking.pdb
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.adddate.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.price.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\PagedList.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\PagedList.Mvc.dll
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\PagedList.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\bin\PagedList.Mvc.xml
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.dates.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addtime.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.Booking.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.trailer.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addfk.resources
+C:\Users\lunga.LAPTOP-BOJB7R9C\Desktop\Movie Booking\Movie Booking\obj\Debug\Movie_Booking.Migrations.addfullname.resources
